@@ -11,11 +11,22 @@ Traditionally, ELF antennas require kilometers of wire to match the massive wave
 
 ---
 
-## 🔬 Technical Specifications
+## 🔬 Featured Technology: MHRMA
+The **Möbius Holographic Reflective Mechanical Antenna (MHRMA)** is our primary handheld transceiver platform.
+
+*   **The "Walkman" of ELF**: A ruggedized, portable unit with field-swappable **Möbius Cassettes**.
+*   **Mechanical Resonance**: Uses a rotating electret Möbius strip to generate ELF waves, bypassing the need for kilometer-long antennas.
+*   **Precision Tuning**: Integrated PLL control for stable frequency output from 1 Hz to 7 Hz.
+
+📖 **[Read the MHRMA Technical Specification](MHRMA_Technical_Spec.md)**
+
+---
+
+## ⚙️ Core Specifications
 *   **Frequency Range**: 0.1 Hz – 7.83 Hz (Targeting the Schumann Resonance)
-*   **Form Factor**: Portable / Handheld / Field-Deployable
-*   **Core Technology**: TFLN-Coupled Piezo-Quartz Resonator
-*   **Principle**: Topological wavelength compression via non-orientable manifold logic.
+*   **Form Factor**: Handheld / Modular / Ruggedized
+*   **Antenna Element**: Mechanically Rotated Electret Möbius Strip
+*   **Logic**: Topological wavelength compression via non-orientable manifold symmetries.
 
 ---
 
