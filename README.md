@@ -47,3 +47,8 @@ This project is currently in the **Active Prototyping** phase.
 ---
 **IOF Resonance v1.0 · Gregory Scott Davis**  
 *Infinite Optical Fabric*
+
+---
+## The IOF Collection
+
+Everything in this repo stays free and public. The complete portfolio — test protocols, code, benchmarks, and theory documents — is also curated as one download: [The Infinite Optical Fabric V.1](https://infinitefabric.gumroad.com/l/lfgis) (name-your-price, $15 minimum). Buying it changes nothing here; it's a way to support the work.
